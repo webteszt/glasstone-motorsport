@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "nev": "Pál Krisztián",
+    "szam": "#7",
+    "auto": "Skoda Fabia Supercar",
+    
+    "kep": "/auto6.jpg"
+  },
+  {
+    "id": 2,
+    "nev": "Demjén Vivien",
+    "szam": "#123",
+    "auto": "Suzuki Swift",
+    
+    "kep": "/junior1.jpg"
+  }
+]

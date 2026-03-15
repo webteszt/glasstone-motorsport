@@ -26,6 +26,7 @@ export default function RootLayout({ children }) {
           <div className="text-xl font-bold italic tracking-tighter text-white/90 uppercase mb-2"> GLASSTONE MOTORSPORT</div>
           <div className="space-x-6 text-sm uppercase font-semibold tracking-widest">
             <Link href="/" className="text-red-600 font-black">Főoldal</Link>
+            <Link href="/versenyzoink" className="text-red-600 font-black">Versenyzőink</Link>
             <Link href="/versenyek" className="text-red-600 font-black">Versenyek</Link>
             <Link href="/galeria" className="text-red-600 font-black">Galéria</Link>
             <Link href="/webshop" className="text-red-600 font-black">Webshop</Link>
